@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Akshay J. Khaire
-- 👀 I’m interested in Data analytics.
-- 🌱 I’m proficient in SQL, Google Sheets / Microsoft Excel, Power-BI and Python.
-- 📫 You can reach me at khairejaypreet@gmail.com. My linkedIn profile : www.linkedin.com/in/akshay-khaire-b72363aa
+kshay J. Khaire
+Data analytics
+Proficient in SQL, Google Sheets / Microsoft Excel, Power-BI and Python
+Mail-ID khairejaypreet@gmail.com
+LinkedIn profile : www.linkedin.com/in/akshay-khaire-b72363aa
