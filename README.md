@@ -1,4 +1,4 @@
-kshay J. Khaire
+Akshay J. Khaire
 Data analytics
 Proficient in SQL, Google Sheets / Microsoft Excel, Power-BI and Python
 Mail-ID khairejaypreet@gmail.com
