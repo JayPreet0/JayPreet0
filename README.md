@@ -6,4 +6,4 @@ Proficient in SQL, Google Sheets / Microsoft Excel, Power-BI and Python
 
 Mail-ID khairejaypreet@gmail.com
 
-LinkedIn profile : www.linkedin.com/in/akshay-khaire-b72363aa
+LinkedIn profile : [LinkedIN](https://www.linkedin.com/in/akshay-khaire/)
