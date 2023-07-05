@@ -1,8 +1,8 @@
 Akshay J. Khaire
 
-Data analytics
+Data Analyst / Business Analyst
 
-Proficient in SQL, Google Sheets / Microsoft Excel, Power-BI and Python
+Proficient in SQL, Google Sheets / Microsoft Excel and Power-BI.
 
 Mail-ID khairejaypreet@gmail.com
 
