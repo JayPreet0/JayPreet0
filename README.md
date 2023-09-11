@@ -28,6 +28,6 @@
     <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="40" height="40"/>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepshikhagithub&show_icons=true&locale=en" alt="deepshikhagithub" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JayPreet0&show_icons=true&locale=en" alt="JayPreet0" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepshikhagithub&" alt="deepshikhagithub" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JayPreet0&" alt="JayPreet0" /></p>
