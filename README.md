@@ -2,7 +2,7 @@
 <h3 align="center">Data Analyst Intern at ATLIQ Technologies</h3>
 <img align="right" alt="Data Analyst" width="400" src="https://uploads-ssl.webflow.com/5c19100c2b50073e6ee69da1/60d34f3b422c048fb72cb925_Analyze.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepshikhagithub&label=Profile%20views&color=0e75b6&style=flat" alt="deepshikhagithub" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=JayPreet0&label=Profile%20views&color=0e75b6&style=flat" alt="JayPreet0" /> </p>
 
 - 🌱 Proficient in **Power BI, Excel, SQL, Statistics**
 
