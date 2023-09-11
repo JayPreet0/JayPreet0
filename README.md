@@ -1,18 +1,18 @@
-<h1 align="center">Hi 👋, I'm Manisha Deepshikha Patra</h1>
-<h3 align="center">Passionate Data Analyst: Unraveling Insights</h3>
+<h1 align="center">Hi 👋, I'm Akshay J. Khaire</h1>
+<h3 align="center">Data Analyst Intern at ATLIQ Technologies</h3>
 <img align="right" alt="Data Analyst" width="400" src="https://uploads-ssl.webflow.com/5c19100c2b50073e6ee69da1/60d34f3b422c048fb72cb925_Analyze.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepshikhagithub&label=Profile%20views&color=0e75b6&style=flat" alt="deepshikhagithub" /> </p>
 
-- 🌱 I’m currently learning **Power BI, Excel, SQL**
+- 🌱 Proficient in **Power BI, Excel, SQL, Statistics**
 
-- 📫 How to reach me **deepshikha909045@gmail.com**
+- 📫 How to reach me **khairejaypreet@gmail.com**
 
-- ⚡ Fun fact **From volts[Electrical Engg] to values, I switched my currents to data streams!**
+- ⚡ Fun fact **From Brakes[Mechanical Engg] to values, I accelrated my career to data streams!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://linkedin.com/in/www.linkedin.com/in/manisha-deepshikha-patra" target="blank">
+    <a href="www.linkedin.com/in/akshay-khaire" target="blank">
         <img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40" />
    </p>
 
